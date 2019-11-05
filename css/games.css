@@ -2,7 +2,8 @@
     color: white;
 }
 
-.games-list img {
-    height: 48px;
-    width: 48px;
+.preview {
+    height: 200px;
+    width: 200px;
 }
+
